@@ -1,1 +1,13 @@
+CS411 Project Proposal
 
+Github Usernames
+Maansi Desai: @mdesaibu
+Xuexin Li: @LeslieLi599
+Amanda Marki: @markics
+Edmund Ruan: @edmund-ruan
+
+Ideas
+
+An app that gives the best recommendation of apartments/housing based on area crime rate, whether or not it is close to public transportation, and if there is a good selection of restaurants nearby. A database that this project can use is storing the user’s preferred location. Furthermore, we can look through Zillow and ApartmentList somehow to get a database of available housing. The main API’s that the project will use is a Crime Rate API, Public Transportation API, and a Restaurant API. In terms of third-party authentication, the user will have to login to a social media profile e.g. Twitter.
+
+An app that alerts the user when there is a coastal flood event soon and recommends to the user places with high elevation and directions to get there via public transportation, just in case. A database that the project can use is storing the names of the “safe areas.” The main API’s that the app will use are the NOAA Weather API, a Transportation API, and an Elevation/Maps API. In terms of third-party authentication, the user will have to login to a social media profile e.g. Twitter.
