@@ -1,0 +1,1 @@
+In terms of logging in, the user could use their existing Google or Facebook accounts to create OAuth login. If they do not have those accounts, we can direct them to another page to create an account on the app using an email and new password. Each account creation event will most likely need email verification and a Captcha test. 
