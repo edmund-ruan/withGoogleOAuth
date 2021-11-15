@@ -1,0 +1,13 @@
+Option 1: Flask (Python) Back-end and Front-end (React.js / JavaScript)
+    Reason:
+        Our team has prior experience working with Python, so we felt comfortable narrowing our decision down to using Python-based frameworks for the backend. That leaves us with Django and Flask. Using Flask seemed like the logical choice due to the fact that Flask requires minimal configuration. For the Front-end, all the major frameworks are JavaScript-based, so we chose to use React.js. For the prototype, we used templates rendered by Flask, but we won't do this in our final application. With React being the most popular front-end framework, it seemed like a good opportunity to learn how to work with it. Also, there's an abundance of resources to learn how to make applications with React so this drove the decision as well.
+
+
+Option 2: 
+    Back-end: NodeJS (JavaScript-based)
+    Front-end: ReactJS
+    Reason: 
+        A tech stack involving just JavaScript would make for an easy to use application. Considering, our API data uses JSON, it would be simple to manipulate all the data if we chose JavaScript as our language. Node.js is the most popular choice for creating backends using JavaScript. However, none of us have any experience using JavaScript, so this would require a bit longer to learn. We also considered React.js for this approach due to the reasons above. 
+
+
+Decision: Chose Option 1 because of our previous Python experience and the limited time to implement the final project. 
