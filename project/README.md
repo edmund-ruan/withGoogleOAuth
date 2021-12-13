@@ -1,4 +1,4 @@
-# Proper Installation / Run Commands
+# Proper Installation / Run Commands test
 
 1. Verify that you have python installed on your machine. You can do this by running the following commands in your terminal. (`python3 --version`) if on Mac or `python` if Windows. If not, install it [here](https://www.python.org/downloads/).
 2. We need to open up two terminal instances. I suggest using Visual Studio Code for this. But you can also just open up two terminal instances on your computer.
