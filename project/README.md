@@ -5,12 +5,15 @@
 3. If using VsCode, follow this step.  On VsCode you can type `ctrl + ~`. And you should see a terminal instance at the bottom. Press the split terminal button on the bottom panel that just opened (it should be next to the + on the terminal and it will be a square with a line through the center)
 4. Now you should have two terminals open. We need one to run our frontend code that will display in the browser and another to run our server code
 
+
+## Installing MongoDB
+We also need to install MongoDB to use as our database. [Here](https://docs.mongodb.com/manual/administration/install-community/) is the documentation to install 
 ## Client
 
 In the first terminal, run the following command to enter the `client` directory, 
 
 ```bash
-cd client
+cd project/client
 ```
 
 You will need Node.js installed to run the frontend which we built using React.js, the most popular JavaScript framework for building websites.
@@ -46,7 +49,7 @@ Note: to run the application properly, you must have both the server and the cli
 Now to run the server, navigate to the second terminal instance and follow the commands below
 
 ```bash
-cd server
+cd project/server
 
 if mac: 
 
@@ -73,4 +76,4 @@ else windows:
 ```
 
 
-Navigate to http://localhost:8080, and you should see a message that says "Welcome to our server", if configured properly 
+Navigate to http://localhost:3000, you should see the homepage. 

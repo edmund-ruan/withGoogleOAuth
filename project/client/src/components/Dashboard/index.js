@@ -48,7 +48,6 @@ const Dashboard = (
             if (city !== "" && state !=="") {
                 const apartments = await findApartments(city, state);
                 setData(apartments);
-                showDetailView(true);
             }
             else {
                 handleShowMessage("Please fill out both city and state", "error")
