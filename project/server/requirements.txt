@@ -3,3 +3,6 @@ requests==2.26.0
 python-dotenv==0.19.2
 Flask-PyMongo==2.3.0
 Flask-Bcrypt==0.7.1
+oauthlib==3.0.1
+pyOpenSSL==19.0.0
+Flask-Login==0.4.1
